@@ -1,0 +1,8 @@
+{
+  "context": {
+    "deviceId": "{{deviceId}}",
+    "username": "{{username}}",
+    "applicationKey": "retail-m"
+  },
+  "op": "Auth"
+}

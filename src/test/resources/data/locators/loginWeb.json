@@ -1,0 +1,7 @@
+{
+  "loginWeb":
+  {
+    "txtSearch": "//textarea[@name='q']",
+    "btnLogIn": "//input[@id='kc-login']"
+  }
+}

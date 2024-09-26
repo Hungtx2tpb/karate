@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group>
+    <type name="common">
+        <object name="dbAutoTest">
+            <attribute name="url" value="jdbc:mysql://localhost:3306/demo"/>
+            <attribute name="driver" value="com.mysql.cj.jdbc.Driver"/>
+            <attribute name="username" value="root"/>
+            <attribute name="password" value=""/>
+        </object>
+    </type>
+    <type name="roc-dev">
+        <object name="demo">
+            <attribute name="url" value="jdbc:mysql://localhost:3306/demo"/>
+            <attribute name="driver" value="com.mysql.cj.jdbc.Driver"/>
+            <attribute name="username" value="root"/>
+            <attribute name="password" value=""/>
+        </object>
+    </type>
+    <type name="roc-sit">
+        <object name="demo">
+            <attribute name="url" value="jdbc:mysql://localhost:3306/demo"/>
+            <attribute name="driver" value="com.mysql.cj.jdbc.Driver"/>
+            <attribute name="username" value="root"/>
+            <attribute name="password" value=""/>
+        </object>
+    </type>
+    <type name="roc-stg">
+        <object name="demo">
+            <attribute name="url" value="jdbc:mysql://localhost:3306/demo"/>
+            <attribute name="driver" value="com.mysql.cj.jdbc.Driver"/>
+            <attribute name="username" value="root"/>
+            <attribute name="password" value=""/>
+        </object>
+    </type>
+</group>
